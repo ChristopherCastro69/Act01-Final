@@ -17,4 +17,11 @@ public abstract class Animal {
         System.out.printf("Animal walks with " + getLegs());
     }
 
+    public void helloWorld(){
+        System.out.printf("Hello World");
+        System.out.printf("Hi");
+    }
+    //Gwapo ko
+
+
 }
